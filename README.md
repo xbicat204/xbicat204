@@ -7,11 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tong-phuc-khiem-de180092" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
    <a href="https://github.com/xbicat204"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white"/></a>
-  <a href="mailto:khiemtong2004@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://github.com/xbicat204">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <a href="mailto:khiemtong2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   </a>
 </p>
 <p align="center">
