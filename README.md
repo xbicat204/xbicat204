@@ -11,7 +11,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="200"/>
+  [<img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="200"/>](https://www.credly.com/badges/01b31d54-e735-45c3-9607-8156da53c4cf)
   <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UQJKBG67HQBB/CERTIFICATE_LANDING_PAGE~UQJKBG67HQBB.jpeg" width="400"/>
 </p>
 
