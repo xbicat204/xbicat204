@@ -9,10 +9,10 @@
    <a href="https://github.com/xbicat204"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white"/></a>
   <a href="mailto:khiemtong2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   </a>
-  <p
-    href="https://www.credly.com/badges/01b31d54-e735-45c3-9607-8156da53c4cf" target="_blank"><img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"
- src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UQJKBG67HQBB/CERTIFICATE_LANDING_PAGE~UQJKBG67HQBB.jpeg" width="400"/>
-  </p>
+  
+  [<img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="100">](https://www.credly.com/badges/57dd8178-61e4-49f6-a87f-6c3ac41bd836)
+  [<img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100">](https://www.credly.com/badges/84b75197-ead1-4b3e-a651-88ba861c8fb7)
+   
 <!--
 **xbicat204/xbicat204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
