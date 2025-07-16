@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="https://sdmntprwestus2.oaiusercontent.com/files/00000000-cae4-61f8-bde6-dcf01d4398f5/raw?se=2025-07-16T14%3A05%3A44Z&sp=r&sv=2024-08-04&sr=b&scid=4fb1baf3-1305-5abd-9a5e-77dfa7e21657&skoid=c156db82-7a33-468f-9cdd-06af263ceec8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-16T11%3A08%3A30Z&ske=2025-07-17T11%3A08%3A30Z&sks=b&skv=2024-08-04&sig=hrnDFvO6qrWMKJRAuItQ8ssJj5OIYkzhz4KSQDEVqwM%3D" width="400" height="300"/>
+  <img src="https://sdmntprnorthcentralus.oaiusercontent.com/files/00000000-6898-622f-b27d-1d69dbbd10cf/raw?se=2025-07-16T18%3A29%3A55Z&sp=r&sv=2024-08-04&sr=b&scid=827db699-3a5f-553b-9c46-2619d97c5abf&skoid=732f244e-db13-47c3-bcc7-7ee02a9397bc&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-15T20%3A33%3A31Z&ske=2025-07-16T20%3A33%3A31Z&sks=b&skv=2024-08-04&sig=FXPWpk3n1EaX0tLLrCzx4JMkdVoHPlUbudbEZn01YbM%3D" width="400" height="300"/>
 </p>
 
 <h2 align="center">Software Engineering(SE- FOntend)</h2>
