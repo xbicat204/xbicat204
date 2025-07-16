@@ -10,7 +10,7 @@
   <a href="mailto:khiemtong2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   </a>
   
-  [<img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="100">](https://www.credly.com/badges/57dd8178-61e4-49f6-a87f-6c3ac41bd836)
+  [<img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="100">](https://www.credly.com/badges/01b31d54-e735-45c3-9607-8156da53c4cf)
   [<img src="https://images.credly.com/size/340x340/images/73e4a58b-a8ef-41a3-a7db-9183dd269882/image.png" width="100">](https://www.credly.com/badges/84b75197-ead1-4b3e-a651-88ba861c8fb7)
    
 <!--
