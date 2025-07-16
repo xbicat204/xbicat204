@@ -9,11 +9,8 @@
    <a href="https://github.com/xbicat204"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white"/></a>
   <a href="mailto:khiemtong2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   </a>
-</p>
-<p align="center">
   [<img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="200"/>](https://www.credly.com/badges/01b31d54-e735-45c3-9607-8156da53c4cf)
   <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UQJKBG67HQBB/CERTIFICATE_LANDING_PAGE~UQJKBG67HQBB.jpeg" width="400"/>
-</p>
 
 
 <!--
