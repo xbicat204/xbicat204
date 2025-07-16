@@ -11,8 +11,7 @@
   </a>
   <p
     href="https://www.credly.com/badges/01b31d54-e735-45c3-9607-8156da53c4cf" target="_blank"><img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png"
-  <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="200"/>
-  <img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UQJKBG67HQBB/CERTIFICATE_LANDING_PAGE~UQJKBG67HQBB.jpeg" width="400"/>
+ src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UQJKBG67HQBB/CERTIFICATE_LANDING_PAGE~UQJKBG67HQBB.jpeg" width="400"/>
   </p>
 <!--
 **xbicat204/xbicat204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
