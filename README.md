@@ -9,11 +9,12 @@
    <a href="https://github.com/xbicat204"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=flat&logo=github&logoColor=white"/></a>
   <a href="mailto:khiemtong2004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   </a>
-  
+  <p
+     align="center">
   [<img src="https://images.credly.com/size/340x340/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="100">](https://www.credly.com/badges/01b31d54-e735-45c3-9607-8156da53c4cf)
   [<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~UQJKBG67HQBB/CERTIFICATE_LANDING_PAGE~UQJKBG67HQBB.jpeg" width="100">](https://www.coursera.org/account/accomplishments/specialization/UQJKBG67HQBB)
    [<img src="https://s3.amazonaws.com/coursera_assets/meta_images/generated/CERTIFICATE_LANDING_PAGE/CERTIFICATE_LANDING_PAGE~VNCX56RJWNW7/CERTIFICATE_LANDING_PAGE~VNCX56RJWNW7.jpeg" width="100">](https://www.coursera.org/account/accomplishments/verify/VNCX56RJWNW7)
-   
+  </p>
 <!--
 **xbicat204/xbicat204** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
